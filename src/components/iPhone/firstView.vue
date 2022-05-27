@@ -50,16 +50,21 @@
             texts, all the time, on all your devices. Easy.
             <br><br> <a class="learn" href="">Learn more about how products <br> work together ></a></h3>
         </div>
-      </div>
-      
-      
-      
-      
+       </div>
+           <h1 class="flex text-8xl justify-center mt-28 font-semibold">Check it out.</h1>
+        <div class="ar flex justify-evenly mt-20 ml-20">
+            <div>
+            <img src="../../assets/ar.jpg" alt="">
+        </div> 
+        <div class="mt-20">
+            <img class="w-14" src="../../assets/cube.svg" alt="">
+            <h1 class="text-4xl font-semibold mt-8">See iPhone 13 Pro<br> and 13 Pro Max in AR.</h1>
+            <p class="text-price font-semibold text-base">Open this page in Safari on your iPhone or iPad.</p>
+        </div> 
+        </div>
       
       <br><br><br><br><br><br><br><br><br>
-      
-      
-          <p class="text-price mx-60 text-sm pb-4  border-b-2  ">
+       <p class="text-price mx-60 text-sm pb-4  border-b-2  ">
             Apple TV+ is $4.99/month after free trial. One offer per
             Family Sharing group. Offer good for 3 months after eligible
             device activation. Plan automatically renews until cancelled. <br>

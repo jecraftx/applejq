@@ -56,6 +56,13 @@ body {
 .learn {
     color: #0071e3;
 }
+.ar {
+    background-color: rgba(245,245,247,255);
+    border-radius: 4px;
+    height: 110%;
+    width: 90%;
+    padding-top: 76px;
+}
 .nav2 {
     display: flex;
     justify-content: space-around;
